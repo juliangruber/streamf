@@ -12,9 +12,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "JSONStream": "^0.10.0",
+    "JSONStream": "^1.2.1",
     "json-stringify-safe": "^5.0.0",
-    "multipipe": "^0.1.2",
+    "multipipe": "^1.0.2",
     "stream-cat": "^1.1.1"
   }
 }
